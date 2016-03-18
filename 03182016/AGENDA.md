@@ -4,20 +4,15 @@
     - Schufa
     - Salary
     - Freedom from Landlord
-    - Applications specific to tomorrow's flats
-    
-### TODO
-    - Claire get Inger to write freedom statement
-    - Claire Screenshot income
-    - Claire get Jan letter from mail 
+    - Applications specific to tomorrow's flats : DONE
+    -
+
 
 ## MOVING IN
 
 ## SCHEDULES
 
 ## BODY COUNT
-
-
 
 
 
